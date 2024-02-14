@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ytarik0" target="blank"><img src="https://img.shields.io/twitter/follow/ytarik0?logo=twitter&style=for-the-badge" alt="ytarik0" /></a> </p>
 
-- 🔭 I’m currently working on **checkMovie-Telegrambot**
+- 🔭 I’m currently working on **my Telegrambot**
 
 - 🌱 I’m currently learning **Rust Programming Language**
 
