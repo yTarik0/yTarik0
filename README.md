@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/fe/a5/a2/fea5a2ebb5407dfeba6c9c55e5207c40.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tarik</h1>
-<h3 align="center">A passionate software engineer, endowed with proficiency in cybersecurity, from Germany</h3>
+<h3 align="center"A passionate computer science student from Germany with a strong interest in programming and cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 
@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **my Telegrambot**
 
-- 🌱 I’m currently learning **Rust Programming Language**
+- 🌱 Currently learning **Rust Programming Language**
 
-- 💬 Ask me about **cybersecurity, Bots (Discord, Telegram)**
+<!-- 💬 Ask me about **cybersecurity, Bots (Discord, Telegram)**-->
 
 - 📫 How to reach me **Discord: yTarik0**
 
-- ⚡ Fun fact **funny guy**
+<!-- ⚡ Fun fact ****-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
